@@ -105,4 +105,3 @@ public sealed class SideScroller : MonoBehaviour
             GUI.Box(new Rect(Screen.width / 2f - 200, Screen.height / 2f - 45, 400, 90), "FINISH!\nPress R to play again", style);
     }
 }
-
